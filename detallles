@@ -1,0 +1,25 @@
+[90m                                                                                [39m
+[90m [39m                      === npm audit security report ===                       [90m [39m
+[90m                                                                                [39m
+[90m                                                                                [39m
+[90m [39m                                Manual Review                                 [90m [39m
+[90m [39m            Some vulnerabilities require your attention to resolve            [90m [39m
+[90m [39m                                                                              [90m [39m
+[90m [39m         Visit https://go.npm.me/audit-guide for additional guidance          [90m [39m
+[90m                                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m High          [90m [39m Denial of Service                                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m css-what                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=5.0.1                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m laravel-mix [dev]                                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m laravel-mix > cssnano > cssnano-preset-default >             [90m [39m
+[90m [39m               [90m [39m postcss-svgo > svgo > css-select > css-what                  [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1754                            [90m [39m
+[90m                [39m[90m                                                                [39m
+found 1 high severity vulnerability in 788 scanned packages
+  1 vulnerability requires manual review. See the full report for details.
